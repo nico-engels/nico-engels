@@ -1,5 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Adriana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-scrobote/)](https://www.linkedin.com/in/adriana-scrobote/)
-
 ### Hello, I'm Nicolas 👋
 
 <p align="center">
